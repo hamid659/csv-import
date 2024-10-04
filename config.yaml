@@ -4,6 +4,3 @@ database:
   password: mypassword
   host: localhost
   port: 5432
-
-logging:
-  level: DEBUG  # or INFO, WARNING, ERROR, CRITICAL
